@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>Invoices Page</p>;
+  return <p className="text-white">Invoices Page</p>;
 }
